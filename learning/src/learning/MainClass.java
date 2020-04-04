@@ -7,6 +7,7 @@ public class MainClass
 	{
 		// TODO Auto-generated method stub
 		System.out.println("manga com sal");
+		// teste herou warudo
 	}
 
 }
